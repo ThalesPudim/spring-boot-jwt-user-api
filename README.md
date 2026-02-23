@@ -100,7 +100,7 @@ API REST construída com Spring Boot para gestão de usuários com autenticaçã
 
 ### Swagger UI
 
-![Swagger UI](docs/images/swagger-ui-endpoints.png)
+![Swagger UI](src/docs/images/swagger-ui-endpoints.png)
 
 ---
 
@@ -108,7 +108,7 @@ API REST construída com Spring Boot para gestão de usuários com autenticaçã
 
 GET /users com token JWT válido retornando 200 OK:
 
-![GET Users](docs/images/get-users.png)
+![GET Users](src/docs/images/get-users.png)
 
 ## Documentação da API
 
