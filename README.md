@@ -96,6 +96,20 @@ API REST construída com Spring Boot para gestão de usuários com autenticaçã
 ./mvnw spring-boot:run
 ```
 
+## Preview da API
+
+### Swagger UI
+
+![Swagger UI](docs/images/swagger-ui-endpoints.png)
+
+---
+
+### Exemplo autenticação GET
+
+GET /users com token JWT válido retornando 200 OK:
+
+![GET Users](docs/images/get-users.png)
+
 ## Documentação da API
 
 Com a aplicação em execução:
