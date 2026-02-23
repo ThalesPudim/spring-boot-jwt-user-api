@@ -70,8 +70,8 @@ API REST construída com Spring Boot para gestão de usuários com autenticaçã
 ```json
 {
   "id": 1,
-  "name": "Thales",
-  "email": "thales@email.com",
+  "name": "Taule",
+  "email": "taule.yahya@email.com",
   "createdAt": "2026-02-20T15:30:00"
 }
 ```
