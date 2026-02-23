@@ -74,6 +74,18 @@ API REST construída com Spring Boot para gestão de usuários com autenticaçã
   "email": "thales@email.com",
   "createdAt": "2026-02-20T15:30:00"
 }
+```
+
+### Exemplo de erro padronizado
+
+```json
+{
+  "timestamp": "2026-02-20T15:40:00",
+  "status": 400,
+  "error": "Business Error",
+  "message": "Email já cadastrado"
+}
+```
 
 ## Como executar
 
