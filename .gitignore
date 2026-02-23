@@ -1,0 +1,61 @@
+############################
+# Maven
+############################
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+############################
+# Spring Boot
+############################
+HELP.md
+
+############################
+# Application properties (NÃO subir credenciais)
+############################
+src/main/resources/application.properties
+.env
+
+############################
+# IntelliJ
+############################
+.idea/
+*.iws
+*.iml
+*.ipr
+
+############################
+# Eclipse / STS
+############################
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+############################
+# NetBeans
+############################
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+############################
+# VS Code
+############################
+.vscode/
+
+############################
+# OS Files
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# Logs
+############################
+*.log
