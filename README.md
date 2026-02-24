@@ -23,7 +23,7 @@ API REST construída com Spring Boot para gestão de usuários com autenticaçã
 - JWT (jjwt)
 - Swagger/OpenAPI (springdoc)
 
-## Arquitetura (alto nível)
+## Arquitetura
 
 - `controller`: expõe endpoints HTTP (`/auth` e `/users`).
 - `service`: concentra regras de negócio de usuário e integração com `UserDetailsService`.
